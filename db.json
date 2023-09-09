@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "company_name": "Company A",
+      "daily_review_counts": [
+        {
+          "date": "2023-06-01",
+          "positive_count": 3500,
+          "negative_count": 1500,
+          "maximum_reach": 3000
+        },
+        {
+          "date": "2023-06-02",
+          "positive_count": 2500,
+          "negative_count": 3000,
+          "maximum_reach": 5500
+        },
+        {
+          "date": "2023-06-03",
+          "positive_count": 10000,
+          "negative_count": 5500,
+          "maximum_reach": 15500
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company_name": "Company B",
+      "daily_review_counts": [
+        {
+          "date": "2023-06-01",
+          "positive_count": 3500,
+          "negative_count": 500,
+          "maximum_reach": 4000
+        },
+        {
+          "date": "2023-06-02",
+          "positive_count": 4250,
+          "negative_count": 250,
+          "maximum_reach": 4500
+        },
+        {
+          "date": "2023-06-03",
+          "positive_count": 18500,
+          "negative_count": 2000,
+          "maximum_reach": 20500
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "company_name": "Company C",
+      "daily_review_counts": [
+        {
+          "date": "2023-06-01",
+          "positive_count": 4900,
+          "negative_count": 1100,
+          "maximum_reach": 6000
+        },
+        {
+          "date": "2023-06-02",
+          "positive_count": 5500,
+          "negative_count": 700,
+          "maximum_reach": 6200
+        },
+        {
+          "date": "2023-06-03",
+          "positive_count": 19000,
+          "negative_count": 500,
+          "maximum_reach": 19500
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "company_name": "Company D",
+      "daily_review_counts": [
+        {
+          "date": "2023-06-01",
+          "positive_count": 5900,
+          "negative_count": 1100,
+          "maximum_reach": 7000
+        },
+        {
+          "date": "2023-06-02",
+          "positive_count": 6500,
+          "negative_count": 1700,
+          "maximum_reach": 8200
+        },
+        {
+          "date": "2023-06-03",
+          "positive_count": 19000,
+          "negative_count": 2500,
+          "maximum_reach": 21500
+        }
+      ]
+    }
+  ]
+}
